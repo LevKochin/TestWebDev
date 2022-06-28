@@ -1,0 +1,52 @@
+[
+  {
+    "model": "vpnDashboard.vpn",
+    "pk": 1,
+    "fields": {
+      "name": "BRAZIL_1",
+      "status": "green",
+      "coordinates": "cx=240 cy=260",
+      "creationTime": "2022-06-26T12:15:12.356Z"
+    }
+  },
+  {
+    "model": "vpnDashboard.vpn",
+    "pk": 2,
+    "fields": {
+      "name": "BRAZIL_2",
+      "status": "grey",
+      "coordinates": "cx=210 cy=230",
+      "creationTime": "2022-06-26T12:15:12.356Z"
+    }
+  },
+  {
+    "model": "vpnDashboard.vpn",
+    "pk": 3,
+    "fields": {
+      "name": "JAPAN_1",
+      "status": "green",
+      "coordinates": "cx=670 cy=110",
+      "creationTime": "2022-06-26T12:15:12.356Z"
+    }
+  },
+  {
+    "model": "vpnDashboard.vpn",
+    "pk": 4,
+    "fields": {
+      "name": "AUSTRALIA_1",
+      "status": "yellow",
+      "coordinates": "cx=700 cy=300",
+      "creationTime": "2022-06-26T12:15:12.356Z"
+    }
+  },
+  {
+    "model": "vpnDashboard.vpn",
+    "pk": 5,
+    "fields": {
+      "name": "AUSTRALIA_2",
+      "status": "red",
+      "coordinates": "cx=640 cy=290",
+      "creationTime": "2022-06-26T12:15:12.356Z"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "model": "vpnDashboard.device",
+    "pk": 1,
+    "fields": {
+      "name": "Samsung Galaxy S10"
+  }
+  },
+  {
+    "model": "vpnDashboard.device",
+    "pk": 2,
+    "fields": {
+      "name": "iPhone 11"
+  }
+  }
+]

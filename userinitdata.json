@@ -1,0 +1,182 @@
+[
+{
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+        "password": "3822",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "Lev",
+        "first_name": "Lev",
+        "last_name": "Vigotskiy",
+        "email": "lev@gmail.com",
+        "is_staff": false,
+        "is_active": false,
+        "date_joined": "2022-06-26T14:48:17.201Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 2,
+    "fields": {
+        "password": "3822",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "Alexandr",
+        "first_name": "Alexandr",
+        "last_name": "Luriya",
+        "email": "luriyaa@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-06-26T14:48:17.233Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 3,
+    "fields": {
+        "password": "3822",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "Karl",
+        "first_name": "Karl",
+        "last_name": "Marks",
+        "email": "kapital@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-06-26T14:48:17.237Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 4,
+    "fields": {
+        "password": "3822",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "Vladimir",
+        "first_name": "Vladimir",
+        "last_name": "Ulyanov",
+        "email": "sssr@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-06-26T14:48:17.240Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 5,
+    "fields": {
+        "password": "3822",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "Mariya",
+        "first_name": "Mariya",
+        "last_name": "Kuri",
+        "email": "mkuri@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-06-26T14:48:17.243Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 6,
+    "fields": {
+        "password": "3822",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "Alfred",
+        "first_name": "Alfred",
+        "last_name": "Korshibski",
+        "email": "korsh@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-06-26T14:48:17.247Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 7,
+    "fields": {
+        "password": "3822",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "Yuriy",
+        "first_name": "Yuriy",
+        "last_name": "Gagarin",
+        "email": "gagarin@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-06-26T14:48:17.250Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 8,
+    "fields": {
+        "password": "3822",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "Ivan",
+        "first_name": "Ivan",
+        "last_name": "Pavlov",
+        "email": "pavlov@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-06-26T14:48:17.254Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 9,
+    "fields": {
+        "password": "3822",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "Fridrich",
+        "first_name": "Fridrich",
+        "last_name": "Engels",
+        "email": "engels@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-06-26T14:48:17.258Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 10,
+    "fields": {
+        "password": "3822",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "Charls",
+        "first_name": "Charls",
+        "last_name": "Darvin",
+        "email": "darvin@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-06-26T14:48:17.260Z",
+        "groups": [],
+        "user_permissions": []
+    }
+}
+]

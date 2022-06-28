@@ -1,0 +1,281 @@
+body {
+    background-color: #1C1C1E;
+    font-family: 'Poppins';
+}
+
+header {
+    position: absolute;
+    width: 1600px;
+    height: 82px;
+    left: 320px;
+    top: 0px;
+    background-color: #2C2C2E;
+}
+
+th {
+    color: #6c6c6c;
+}
+
+a {
+    color: #eeeeee;
+    text-decoration: none;
+}
+
+#connection__count {
+    text-align: center;
+}
+
+#connection__time {
+    text-align: center;
+}
+
+#vpn__name-th {
+    text-align: left;
+}
+
+.hidden__container {
+    display: none;
+}
+
+.user__info__container {
+    position: absolute;
+    width: 394px;
+    height: 1131px;
+    left: 1526px;
+    top: 9px;
+    background-color: #2C2C2E;
+    color: white;
+    border-left: 1px solid #474747;;
+}
+
+.user__edit__form {
+    position: absolute;
+    width: 394px;
+    height: 1131px;
+    left: 1526px;
+    top: 9px;
+    background-color: #2C2C2E;
+}
+
+.nav__link {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 9px 32px;
+    gap: 12px;
+    position: absolute;
+    width: 255px;
+    height: 48px;
+    left: 0px;
+    bottom: 32px;
+    background: #2C2C2E;
+}
+
+.logo {
+    position: absolute;
+    width: 77px;
+    height: 48px;
+    left: 32px;
+    top: 24px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 48px;
+    display: flex;
+    align-items: center;
+    color: #EEEEEE;
+}
+
+.aside__nav {
+    position: absolute;
+    width: 320px;
+    height: 1755px;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    background-color: #2C2C2E;
+    border-right: 1px solid #474747;
+}
+
+.map--server__container {
+    position: absolute;
+    width: 1552px;
+    height: 428px;
+    left: 344px;
+    top: 98px;
+    background-color: #2C2C2E;
+    border-radius: 16px;
+}
+
+.map__container {
+    position: absolute;
+    width: 779px;
+    height: 396px;
+    left: 16px;
+    top: 16px;
+    background: #1C1C1E;
+    border-radius: 16px;
+}
+
+.server__info__container {
+    position: absolute;
+    width: 1552px;
+    height: 1213px;
+    left: 344px;
+    top: 542px;
+    background-color: #2C2C2E;
+    border-radius: 16px;
+    overflow: hidden;
+}
+
+.server__list__container {
+    position: absolute;
+    left: 830px;
+    top: 0px;
+    overflow: hidden;
+}
+
+.general__server__info {
+    display: inline-flex;
+}
+
+.servers__count {
+    color: #767676;
+    padding: 25px;
+}
+
+.server__table__detailed--info {
+    width: 1500px;
+    border-collapse: collapse;
+}
+
+.server__table__detailed--info th {
+    text-align: left;
+    height: 70px;
+}
+
+.server__table__detailed--info td {
+    color: #eeeeee;
+    height: 40px;
+    font-size: 16px;
+    border-top: 1px solid #474747;
+    border-bottom: 1px solid #474747;
+}
+
+.server__table__general--info {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.server__table__general--info th {
+    height: 70px;
+    width: 225px;
+}
+
+.server__table__general--info td {
+    color: #eeeeee;
+    height: 40px;
+    font-size: 16px;
+    border-top: 1px solid #474747;
+    border-bottom: 1px solid #474747;
+}
+
+.circle__shadow {
+    filter: drop-shadow(0px 0px 10px rgba(255, 255, 255, 1));
+}
+
+.text__anchored-middle {
+    text-anchor: middle;
+}
+
+.show__more {
+    color: #514bff;
+    cursor: pointer;
+}
+
+.status__title {
+    margin-left: 10px;
+    font-size: 24px;
+}
+
+.vpn__title {
+    color: white;
+    font-size: 24px;
+}
+
+.username__title {
+    color: white;
+    padding: 20px;
+    font-size: 24px;
+}
+
+.email__lable {
+    padding-left: 20px;
+    color: #a2a2a2;
+}
+
+.email__data {
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+.licences__label {
+    padding-left: 20px;
+    color: #a2a2a2;
+}
+
+.license__name5 {
+    display: flex;
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+.license__name4 {
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+.license__name3 {
+    padding-left: 20px;
+    font-size: 20px;
+}
+.license__name1 {
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+.license__name5 {
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+.device__data {
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+.lastseen__info {
+    padding-left: 20px;
+    color: #a2a2a2;
+    font-size: 20px;
+}
+
+.hr__info {
+    color: #484848;
+    width: 90%;
+}
+
+.form__submit {
+    margin-left: 20px;
+    width: 346px;
+    height: 48px;
+    background-color: #3B59F9;
+    color: white;
+    border-radius: 30px;
+    border: 0px;
+}
+
+.input__element {
+    color: white;
+    padding-left: 20px;
+}
